@@ -15,8 +15,12 @@ Si quieres ver la demo de este proyecto desplegado, puedes visitar [Demo del pro
 - Font Awesome
 - Google Fonts
 - AOS - Animate on scroll library
+   
 ## Desktop
 <img width="400px"  src="https://raw.githubusercontent.com/azael1412/hero-banner-landing-page/main/img/desktop.png" />
+
+## Tablet
+<img width="400px"  src="https://raw.githubusercontent.com/azael1412/hero-banner-landing-page/main/img/tablet.png" />
 
 ## Mobile
 <img width="400px" src="https://raw.githubusercontent.com/azael1412/hero-banner-landing-page/main/img/mobile.png" />
