@@ -23,5 +23,4 @@ Si quieres ver la demo de este proyecto desplegado, puedes visitar [Demo del pro
 <img width="400px"  src="https://raw.githubusercontent.com/azael1412/hero-banner-landing-page/main/img/tablet.png" />
 
 ## Mobile
-
 <img width="400px" src="https://raw.githubusercontent.com/azael1412/hero-banner-landing-page/main/img/mobile.png" />
