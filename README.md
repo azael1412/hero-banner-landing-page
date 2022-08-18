@@ -17,7 +17,7 @@ Si quieres ver la demo de este proyecto desplegado, puedes visitar [Demo del pro
 - AOS - Animate on scroll library
    
 ## Desktop
-<img width="400px"  src="https://raw.githubusercontent.com/azael1412/hero-banner-landing-page/main/img/desktop.png" />
+<img width="400px"  src="https://raw.githubusercontent.com/azael1412/hero-banner-landing-page/main/img/tablet.png" />
 
 ## Tablet
 <img width="400px"  src="https://raw.githubusercontent.com/azael1412/hero-banner-landing-page/main/img/tablet.png" />
